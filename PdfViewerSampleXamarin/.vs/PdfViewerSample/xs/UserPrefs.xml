@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PdfViewerSample/PdfViewerSample/MainPage.xaml.cs">
+    <Files>
+      <File FileName="PdfViewerSample/PdfViewerSample/App.xaml" Line="1" Column="1" />
+      <File FileName="PdfViewerSample/PdfViewerSample/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="PdfViewerSample/PdfViewerSample/FileManager.cs" Line="1" Column="1" />
+      <File FileName="PdfViewerSample/PdfViewerSample/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PdfViewerSample" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PdfViewerSample/PdfViewerSample.Android/PdfViewerSample.Android.csproj</String>
+    <String>PdfViewerSample/PdfViewerSample/PdfViewerSample.csproj</String>
+    <String>PdfViewerSample/PdfViewerSample.UWP/PdfViewerSample.UWP.csproj</String>
+    <String>PdfViewerSample/PdfViewerSample.iOS/PdfViewerSample.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
